@@ -3,7 +3,7 @@
 I'm a Java Full Stack Developer passionate about building powerful and scalable applications! From crafting sleek, responsive web designs to developing efficient backend systems, I love turning ideas into reality.  
 
  💻 Tech Stack & Tools  
-- Backend: Java, Spring Boot 🌐  
+- Backend: Java, Python, C Spring Boot 🌐  
 - Frontend: HTML, CSS, JavaScript, React, Python 🎨  
 - Database: MySQL 🗄️  
 - Tools & Frameworks: Hibernate,Spring, Tkinter, OpenCV, NumPy,Panda 🛠️  
